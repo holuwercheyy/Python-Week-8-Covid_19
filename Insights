@@ -1,0 +1,25 @@
+📊 Key Insights from Vaccination Data
+
+✅ 1. Italy leads in 28.9 % of population vaccinated
+
+From the latest available data, Italy shows the highest percentage of vaccinated population among the selected countries, reflecting a faster and broader vaccine rollout compared to others.
+
+✅ 2. South America's vaccination pace is improving but still lags behind having 25.9%
+
+While North South America has made significant progress in its vaccination campaign, its percentage of vaccinated population remains lower than the Italy, possibly due to its vast population size.
+
+✅ 3.  North America and Asia show relatively lower vaccination rates
+
+They demonstrate the lowest 22.6% vaccinated population among the analyzed countries, highlighting regional disparities in vaccine accessibility and distribution in developing nations.
+
+
+❗ Interesting Patterns & Anomalies
+
+🚩 Anomaly: Some countries show gaps in data reporting
+
+There are missing or inconsistent values in the `total_vaccinations_per_hundred` for certain countries and dates.
+This could indicate delays or inconsistencies in data reporting, especially in countries with weaker health data infrastructure.
+
+🚩 Observation: Vaccination rollouts accelerated after specific global initiatives
+
+For most countries, a visible acceleration in vaccination uptake occurred around mid-2021, coinciding with global efforts to improve vaccine equity, such as **COVAX deliveries and national vaccination drives.
